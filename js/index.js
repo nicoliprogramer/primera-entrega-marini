@@ -1,4 +1,3 @@
-
 let idioma = prompt("ingrese su idioma dominante");
 let limite = 0;
 
